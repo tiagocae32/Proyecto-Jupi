@@ -1,29 +1,32 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15">
   <diagram name="Página-1" id="_PgOIBli4lSo6bk7udjs">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-7" value="Fact_Compra_MT2&lt;div&gt;id PRIMARY KEY&lt;/div&gt;&lt;div&gt;id_barrio INT ,&lt;/div&gt;&lt;div&gt;precio INT,&lt;/div&gt;&lt;div&gt;fecha DATE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="490" width="330" height="100" as="geometry" />
+        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-7" value="Fact_Compra_MT2&lt;div&gt;id PRIMARY KEY&lt;/div&gt;&lt;div&gt;id_barrio INT ,&lt;/div&gt;&lt;div&gt;precio INT,&lt;/div&gt;&lt;div&gt;fecha DATE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="485" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-8" value="Dim Barrios&lt;div&gt;&amp;nbsp;id_barrio &lt;span class=&quot;hljs-type&quot;&gt;INT&lt;/span&gt; AUTOINCREMENT &lt;span class=&quot;hljs-keyword&quot;&gt;PRIMARY&lt;/span&gt; KEY,&lt;br/&gt;    nombre_barrio &lt;span class=&quot;hljs-type&quot;&gt;VARCHAR&lt;/span&gt;(&lt;span class=&quot;hljs-number&quot;&gt;100&lt;/span&gt;),&lt;br/&gt;    id_comuna &lt;span class=&quot;hljs-type&quot;&gt;INT&lt;/span&gt;,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="330" height="100" as="geometry" />
+        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-8" value="Dim Barrios&lt;div&gt;&amp;nbsp;id_barrio &lt;span class=&quot;hljs-type&quot;&gt;INT&lt;/span&gt; AUTOINCREMENT &lt;span class=&quot;hljs-keyword&quot;&gt;PRIMARY&lt;/span&gt; KEY,&lt;br/&gt;    nombre_barrio &lt;span class=&quot;hljs-type&quot;&gt;VARCHAR&lt;/span&gt;(&lt;span class=&quot;hljs-number&quot;&gt;100&lt;/span&gt;),&lt;br/&gt;    id_comuna &lt;span class=&quot;hljs-type&quot;&gt;INT&lt;/span&gt;,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="30" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-10" value="Dim_Tipo_Propiedad&lt;div&gt;id_tipo_propiedad INT PRIMARY KEY&lt;/div&gt;&lt;div&gt;tipo VARCHR(100)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="249" y="360" width="330" height="100" as="geometry" />
+        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-10" value="Dim_Tipo_Propiedad&lt;div&gt;id_tipo_propiedad INT PRIMARY KEY&lt;/div&gt;&lt;div&gt;tipo VARCHR(100)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="340" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-11" value="Fact_Precio_Alquiler&lt;div&gt;id PRIMARY KEY&lt;/div&gt;&lt;div&gt;id_barrio INT ,&lt;/div&gt;&lt;div&gt;precio INT,&lt;/div&gt;&lt;div&gt;fecha DATE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="484.5" width="330" height="100" as="geometry" />
+        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-11" value="Fact_Precio_Alquiler&lt;div&gt;id PRIMARY KEY&lt;/div&gt;&lt;div&gt;id_barrio INT ,&lt;/div&gt;&lt;div&gt;id_tipo_propiedad&lt;/div&gt;&lt;div&gt;precio INT,&lt;/div&gt;&lt;div&gt;fecha DATE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="485" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-15" value="Dim_Comunas&lt;div&gt;&amp;nbsp;id_comuna &lt;span class=&quot;hljs-type&quot;&gt;INT&lt;/span&gt; &lt;span class=&quot;hljs-keyword&quot;&gt;PRIMARY&lt;/span&gt; KEY,&lt;br/&gt;    nombre_comuna &lt;span class=&quot;hljs-type&quot;&gt;VARCHAR&lt;/span&gt;(&lt;span class=&quot;hljs-number&quot;&gt;100&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="80" width="330" height="100" as="geometry" />
+        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-15" value="Dim_Comunas&lt;div&gt;&amp;nbsp;id_comuna &lt;span class=&quot;hljs-type&quot;&gt;INT&lt;/span&gt; &lt;span class=&quot;hljs-keyword&quot;&gt;PRIMARY&lt;/span&gt; KEY,&lt;br/&gt;    nombre_comuna &lt;span class=&quot;hljs-type&quot;&gt;VARCHAR&lt;/span&gt;(&lt;span class=&quot;hljs-number&quot;&gt;100&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="30" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-17" value="FACT&lt;div&gt;id_barrio,&lt;/div&gt;&lt;div&gt;id_tipo_propiedad,&lt;/div&gt;&lt;div&gt;id_dim_sueldo,&lt;/div&gt;&lt;div&gt;id_dim_precio_alquiler&lt;/div&gt;&lt;div&gt;id_dim_compra_mt2&lt;/div&gt;&lt;div&gt;gastos_extras&lt;/div&gt;&lt;div&gt;porcentaje ahorro ??&lt;/div&gt;&lt;div&gt;tiempo_estimado ??&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="249" y="200" width="340" height="130" as="geometry" />
+        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-17" value="FACT&lt;div&gt;id_barrio,&lt;/div&gt;&lt;div&gt;id_tipo_propiedad,&lt;/div&gt;&lt;div&gt;id_dim_sueldo,&lt;/div&gt;&lt;div&gt;id_dim_precio_alquiler&lt;/div&gt;&lt;div&gt;id_dim_compra_mt2&lt;/div&gt;&lt;div&gt;gastos_extras&lt;/div&gt;&lt;div&gt;porcentaje ahorro ??&lt;/div&gt;&lt;div&gt;tiempo_estimado ??&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="244" y="170" width="340" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-19" value="Fact_Sueldos_IT&lt;div&gt;id PRIMARY KEY&lt;/div&gt;&lt;div&gt;sueldo INT,&lt;/div&gt;&lt;div&gt;cargo,&lt;/div&gt;&lt;div&gt;seniority&amp;nbsp;&lt;/div&gt;&lt;div&gt;modalidad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="249" y="608" width="330" height="100" as="geometry" />
+        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-19" value="Fact_Sueldos_IT&lt;div&gt;id PRIMARY KEY&lt;/div&gt;&lt;div&gt;sueldo INT,&lt;/div&gt;&lt;div&gt;cargo,&lt;/div&gt;&lt;div&gt;seniority&amp;nbsp;&lt;/div&gt;&lt;div&gt;modalidad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="244" y="620" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WD8Af2eB6pbRP4BwtznL-1" value="Dim_Calendar&lt;div&gt;Periodo&lt;/div&gt;&lt;div&gt;Año&lt;/div&gt;&lt;div&gt;Mes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="340" width="330" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
