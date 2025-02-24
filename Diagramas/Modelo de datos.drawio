@@ -13,14 +13,17 @@
         <mxCell id="Tpi5WgGOsZAOtSVOxkZi-10" value="Dim_Tipo_Propiedad&lt;div&gt;id_tipo_propiedad INT PRIMARY KEY&lt;/div&gt;&lt;div&gt;tipo VARCHR(100)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="30" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-11" value="Fact_Precio_Alquiler&lt;div&gt;id PRIMARY KEY&lt;/div&gt;&lt;div&gt;id_barrio INT ,&lt;/div&gt;&lt;div&gt;id_tipo_propiedad&lt;/div&gt;&lt;div&gt;precio INT,&lt;/div&gt;&lt;div&gt;fecha DATE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Tpi5WgGOsZAOtSVOxkZi-11" value="Fact_Precio_Alquiler&lt;div&gt;id PRIMARY KEY&lt;/div&gt;&lt;div&gt;id_barrio INT&amp;nbsp;&lt;/div&gt;&lt;div&gt;id_tipo_propiedad INT&lt;/div&gt;&lt;div&gt;precio INT&lt;/div&gt;&lt;div&gt;fecha DATE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="400" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tpi5WgGOsZAOtSVOxkZi-17" value="FACT&lt;div&gt;id_barrio,&lt;/div&gt;&lt;div&gt;id_tipo_propiedad,&lt;/div&gt;&lt;div&gt;id_dim_sueldo,&lt;/div&gt;&lt;div&gt;id_dim_precio_alquiler&lt;/div&gt;&lt;div&gt;id_dim_compra_mt2&lt;/div&gt;&lt;div&gt;ahorro_actual&lt;/div&gt;&lt;div&gt;&lt;div&gt;porcentaje ahorro&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;gastos_extras&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tiempo_estimado&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="231" y="180" width="356" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Tpi5WgGOsZAOtSVOxkZi-19" value="Fact_Sueldos_IT&lt;div&gt;id PRIMARY KEY&lt;/div&gt;&lt;div&gt;sueldo INT,&lt;/div&gt;&lt;div&gt;cargo,&lt;/div&gt;&lt;div&gt;seniority&amp;nbsp;&lt;/div&gt;&lt;div&gt;modalidad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="249" y="530" width="330" height="100" as="geometry" />
+          <mxGeometry x="450" y="535" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l2Fe7tYUIU8goLMyxKmD-2" value="Fact_Exchange_Rate&lt;div&gt;fecha DATE&lt;/div&gt;&lt;div&gt;precio INT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="545" width="330" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
