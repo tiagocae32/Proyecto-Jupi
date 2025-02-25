@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Página-1" id="_PgOIBli4lSo6bk7udjs">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,17 @@
         <mxCell id="Tpi5WgGOsZAOtSVOxkZi-19" value="Fact_Sueldos_IT&lt;div&gt;id PRIMARY KEY&lt;/div&gt;&lt;div&gt;sueldo INT,&lt;/div&gt;&lt;div&gt;cargo,&lt;/div&gt;&lt;div&gt;seniority&amp;nbsp;&lt;/div&gt;&lt;div&gt;modalidad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="535" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="l2Fe7tYUIU8goLMyxKmD-2" value="Fact_Exchange_Rate&lt;div&gt;fecha DATE&lt;/div&gt;&lt;div&gt;precio INT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="545" width="330" height="100" as="geometry" />
+        <mxCell id="l2Fe7tYUIU8goLMyxKmD-2" value="Fact_Exchange_Rate&lt;div&gt;fecha DATE&lt;/div&gt;&lt;div&gt;precio INT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="535" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ShhUaPymN2N6eyaT6k4_-1" value="Dim Puestos Trabajo&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;ID_PUESTO_TRABAJO INT,&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;NOMBRE_PUESTO&amp;nbsp; VARCHAR(16777216),&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ID_INDUSTRIA NUMBER(38,0),&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ID_SENIORITY NUMBER(38,0)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="680" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ShhUaPymN2N6eyaT6k4_-2" value="Dim Industrias&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;ID_INDUSTRIA INT,&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; NOMBRE_INDUSTRIA VARCHAR(16777216)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="680" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ShhUaPymN2N6eyaT6k4_-3" value="Dim Seniority&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;ID_SENIORITY INT ,&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; NOMBRE_SENIORITY VARCHAR(16777216),&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; DESCRIPCION VARCHAR(16777216)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="830" width="330" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
