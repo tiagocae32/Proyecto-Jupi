@@ -1,0 +1,85 @@
+Posibles nombres:
+
+-DataScope Analytics – Enfocado en la visión y el análisis profundo de datos.
+
+-Insight Nexus – Destaca la conexión entre datos y conocimientos valiosos.
+
+-Quantivize – Un nombre moderno que combina "quantitative" (cuantitativo) y "analyze" (analizar).
+
+1. Pregunta
+
+✅ Pregunta impactante → "¿Sabías que el 90% de los datos del mundo se generaron en los últimos dos años?"
+✅ Dato sorprendente → "Las empresas que usan análisis de datos aumentan su productividad en un 25%."
+✅ Historia corta → "Hace un año, una empresa estaba al borde del fracaso... hasta que usó datos para cambiar su rumbo."
+
+2. Contexto y presentacion
+
+¿Cuánto tiempo necesita un profesional de IT en Argentina para comprar un departamento?
+Este análisis estima el tiempo que le tomaría a una persona en Argentina comprar un departamento trabajando en el rubro IT(otros?). Consideramos diferentes puestos, salarios promedio y gastos fijos para proyectar el ahorro mensual y el tiempo necesario para alcanzar el objetivo.
+
+Factores clave analizados:
+✅ Puesto de trabajo: Desde junior hasta senior, con sus respectivos salarios.
+✅ Gastos fijos: Incluyendo alquiler, comida, transporte y otros costos de vida.
+✅ Precio del inmueble: Basado en el valor promedio del metro cuadrado en distintas ciudades.
+✅ Ahorro mensual: Calculado como ingreso menos gastos, proyectando el tiempo necesario para alcanzar la meta.
+
+Resultados y decisiones posibles
+📌 Profesionales junior podrían tardar más de 15 años, mientras que los seniors con ingresos altos reducirían el plazo a menos de 7 años.
+📌 Vivir con menores gastos fijos (ejemplo: compartir alquiler) puede reducir el tiempo en hasta un 30%.
+📌 Invertir el ahorro en activos financieros podría acelerar el proceso.
+
+Este análisis ayuda a los profesionales de IT a tomar mejores decisiones sobre ahorro, inversión y planificación financiera para alcanzar el sueño de la vivienda propia.
+
+Si quieres que agregue más detalles o lo haga más técnico, dime y lo ajustamos. 🚀
+
+Intro
+
+¿Cuánto tiempo necesita un profesional de IT en Argentina para comprar un departamento?
+Comprar una vivienda propia es uno de los mayores desafíos financieros, especialmente en un contexto económico cambiante como el de Argentina. Para quienes trabajan en el rubro IT, conocido por sus altos salarios en comparación con otros sectores, surge una pregunta clave: ¿cuánto tiempo se necesita para alcanzar este objetivo según el puesto y los gastos fijos?
+
+En este análisis, exploramos cómo diferentes roles en IT, desde junior hasta senior, pueden proyectar su ahorro mensual en función de sus ingresos y costos de vida. A partir de estos datos, estimamos el tiempo necesario para comprar un departamento, considerando factores como el valor del metro cuadrado y distintas estrategias de optimización financiera.
+
+Los resultados no solo brindan una visión clara del panorama actual, sino que también permiten tomar decisiones más informadas sobre ahorro, inversión y planificación a largo plazo.
+
+-------------------------------- /////////////////////////// ---------------------------------------
+
+Discurso para Exposición sobre Análisis de Datos:
+
+1. Introducción (Persona 1)
+
+Buenos días/tardes a todos. Gracias por su tiempo y atención. Hoy les traemos un análisis realizado por nuestro equipo sobre una de las preocupaciones más comunes en el ámbito laboral y financiero de Argentina, especialmente para los trabajadores del rubro IT. Nos enfocamos en cuánto tiempo y cuánto dinero necesitaría un profesional de IT para poder adquirir un departamento en el país, más específicamente en una ciudad como Buenos Aires.
+
+La metodología que utilizamos para este análisis se basa en una recopilación exhaustiva de datos salariales del rubro IT, costos actuales de propiedades, y una proyección de los ahorros necesarios para adquirir un departamento de 1, 2 o 3 ambientes.
+
+Buenos días a todos. Agradecemos mucho su tiempo y su disposición para acompañarnos hoy. El análisis que vamos a presentar tiene como objetivo abordar una cuestión clave que afecta a muchos trabajadores en Argentina, especialmente en el rubro IT: la accesibilidad a la vivienda. Sabemos que en las últimas décadas, el mercado inmobiliario ha experimentado un crecimiento considerable, pero este aumento en los precios no siempre se ha visto reflejado en un aumento proporcional en los salarios, lo que ha hecho que adquirir una propiedad sea cada vez más difícil.
+
+En particular, nuestro equipo se centró en analizar cuántos años y qué cantidad de ahorro serían necesarios para que un trabajador en el sector IT pueda adquirir un departamento en Buenos Aires, una de las ciudades con mayores precios inmobiliarios del país. Para ello, realizamos una recolección de datos, tanto de los salarios actuales de los profesionales en el rubro IT como de los costos promedio de los departamentos en diferentes zonas de la ciudad.
+
+Lo que buscamos con este análisis es brindar una visión más clara sobre la relación entre el salario promedio de los trabajadores IT y los costos de vida. A partir de estos datos, vamos a desglosar cuánto tiempo de ahorro sería necesario para poder acceder a un departamento de 1, 2 o 3 ambientes en Buenos Aires, y así presentarles una proyección realista sobre la viabilidad de la adquisición de vivienda para este sector. (AMPLIAR)
+
+2. Análisis Salarial (Persona 2)
+
+En primer lugar, realizamos un análisis de los salarios promedio de los trabajadores en el rubro IT en Argentina. Sabemos que la industria de la tecnología ha crecido significativamente en los últimos años, pero también que los salarios varían dependiendo de la experiencia, la especialización (cargo) y la ubicación. A partir de los datos recopilados, encontramos que el salario promedio de un trabajador en IT en Argentina ronda los XXX pesos mensuales. (cuando tengamos los datos).
+
+Este dato es clave, ya que nos permitió establecer un punto de partida sobre cuánto podría ahorrar un trabajador promedio al mes, considerando que se deben descontar impuestos, gastos de vida, y otros factores. (agregarlos)
+
+3. Cálculo del Ahorro y Tiempo Necesario (Persona 3)
+
+A partir de esta base salarial, calculamos cuánto podría ahorrar un trabajador del rubro IT, tomando en cuenta un porcentaje conservador del 20% (por ejemplo) de su salario mensual para ahorro. Además, estimamos los precios actuales de los departamentos de 1, 2 y 3 ambientes en Buenos Aires o Caba???
+
+Para un departamento de 1 ambiente, el precio promedio ronda los 80,000,000 de pesos, mientras que para un departamento de 2 ambientes, este valor puede ascender a 120,000,000 de pesos, y para un 3 ambientes, los valores pueden superar los 150,000,000 de pesos. Con estos datos, calculamos el tiempo estimado necesario para ahorrar la cantidad total de cada tipo de propiedad.
+
+En el caso de un departamento de 1 ambiente, un trabajador podría necesitar aproximadamente 33 años de ahorro continuo para lograr reunir el monto necesario. Para un 2 ambientes, el tiempo se extiende a más de 50 años, y para un 3 ambientes, la estimación supera los 60 años. Este es un escenario hipotético que no toma en cuenta factores como aumentos salariales, ingresos extra o variación de precios de propiedad, pero sí muestra una tendencia preocupante.
+
+4. Conclusiones y Recomendaciones (Persona 4)
+
+Como conclusión, nuestro análisis resalta una brecha considerable entre los salarios promedio de los trabajadores en IT y los precios de los departamentos en Argentina. Esto pone de manifiesto la necesidad urgente de políticas públicas que apoyen el acceso a la vivienda, y también sugiere que los trabajadores del rubro IT deberían considerar diversas estrategias de inversión para acortar los plazos estimados, como la inversión en propiedades más pequeñas, la búsqueda de financiamientos accesibles o incluso explorar opciones en otras regiones con costos más bajos.
+
+Además, este análisis puede servir como punto de partida para un estudio más detallado sobre la viabilidad de la adquisición de propiedades en diferentes sectores de la población, así como un análisis de las políticas salariales y de vivienda que podrían facilitar el acceso a la propiedad en el futuro.
+
+En resumen, aunque el camino para acceder a una propiedad en el contexto actual es largo, este tipo de análisis nos permite visualizar posibles soluciones y alternativas que podrían hacer esta meta más alcanzable para los trabajadores del sector analizado.
+
+Cierre:
+
+Gracias por su atención. Ahora estamos abiertos a cualquier pregunta o comentarios que tengan sobre los resultados de este análisis.
+
