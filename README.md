@@ -2,7 +2,7 @@
 
 # Descripción del Proyecto
 
-Este proyecto analiza la problemática del acceso a la vivienda en la Ciudad Autónoma de Buenos Aires (CABA) utilizando SQL para la limpieza, transformación y modelado de datos, y Qlik Sense para la visualización y exploración de las métricas clave.
+En este proyecto exploramos la problemática del acceso a la vivienda en la Ciudad Autónoma de Buenos Aires (CABA). Usamos SQL para limpiar y transformar los datos, y trabajamos con Snowflake como base para almacenarlos y manejarlos de forma eficiente en la nube. Después, armamos visualizaciones y dashboards interactivos con Qlik Sense para poder analizar mejor las métricas clave y entender qué está pasando realmente con el acceso a la vivienda en la ciudad.
 
 # Tecnologías Utilizadas
 
